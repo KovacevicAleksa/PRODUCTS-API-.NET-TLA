@@ -1,0 +1,15 @@
+D:\API #NET TLA\WebAPI\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+D:\API #NET TLA\WebAPI\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+D:\API #NET TLA\WebAPI\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+D:\API #NET TLA\WebAPI\BusinessLayer\bin\Debug\net8.0\DataLayer.dll
+D:\API #NET TLA\WebAPI\BusinessLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\API #NET TLA\WebAPI\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\API #NET TLA\WebAPI\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\API #NET TLA\WebAPI\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\API #NET TLA\WebAPI\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+D:\API #NET TLA\WebAPI\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\API #NET TLA\WebAPI\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CopyComplete
+D:\API #NET TLA\WebAPI\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+D:\API #NET TLA\WebAPI\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+D:\API #NET TLA\WebAPI\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+D:\API #NET TLA\WebAPI\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll

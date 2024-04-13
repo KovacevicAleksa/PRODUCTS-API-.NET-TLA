@@ -1,0 +1,12 @@
+D:\API #NET TLA\WebAPI\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+D:\API #NET TLA\WebAPI\DataLayer\bin\Debug\net8.0\DataLayer.dll
+D:\API #NET TLA\WebAPI\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\API #NET TLA\WebAPI\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+D:\API #NET TLA\WebAPI\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\API #NET TLA\WebAPI\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+D:\API #NET TLA\WebAPI\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+D:\API #NET TLA\WebAPI\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\API #NET TLA\WebAPI\DataLayer\obj\Debug\net8.0\DataLayer.dll
+D:\API #NET TLA\WebAPI\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+D:\API #NET TLA\WebAPI\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+D:\API #NET TLA\WebAPI\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
